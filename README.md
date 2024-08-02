@@ -1,7 +1,7 @@
 
 # WelcomeBotDeployer
 
-<img src="wallpaper.jpg" style="width: 100%; height: 150px; object-fit: cover;">
+<img src="wallpaper.jpg" style="width: 100%; height: 350px; object-fit: contain !important;">
 
 Этот скрипт предназначен для автоматического развертывания и настройки Telegram-ботов, который приветствует новых пользователей. С помощью этого скрипта вы сможете легко и быстро настроить бота-приветствие без лишних усилий.
 
